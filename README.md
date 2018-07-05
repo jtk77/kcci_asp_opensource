@@ -2,7 +2,7 @@
 
 ## 프로젝트 테스트
 
-dev1
+dev1 devuser1
 
 dev2
 
