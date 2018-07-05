@@ -4,7 +4,7 @@
 
 dev1 devuser1
 
-dev2
+dev2 devuser2
 
 dev3
 
